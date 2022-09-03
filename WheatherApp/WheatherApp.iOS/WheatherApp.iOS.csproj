@@ -133,4 +133,22 @@
       <Name>WheatherApp</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\add.png" />
+    <BundleResource Include="Resources\bg.png" />
+    <BundleResource Include="Resources\cloudiness.png" />
+    <BundleResource Include="Resources\dashboard.png" />
+    <BundleResource Include="Resources\grid.png" />
+    <BundleResource Include="Resources\gridColor.png" />
+    <BundleResource Include="Resources\humidity.png" />
+    <BundleResource Include="Resources\list.png" />
+    <BundleResource Include="Resources\listColor.png" />
+    <BundleResource Include="Resources\menu.png" />
+    <BundleResource Include="Resources\overlay.png" />
+    <BundleResource Include="Resources\place.png" />
+    <BundleResource Include="Resources\pressure.png" />
+    <BundleResource Include="Resources\settings.png" />
+    <BundleResource Include="Resources\weather.png" />
+    <BundleResource Include="Resources\wind.png" />
+  </ItemGroup>
 </Project>
